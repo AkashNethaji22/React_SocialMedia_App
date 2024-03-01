@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "my first post",
+      "datetime": "july 22, 2021 11:11:12 AM",
+      "body": "watching netflix"
+    },
+    {
+      "id": 2,
+      "title": "my second post",
+      "datetime": "july 22, 2021 11:11:12 AM",
+      "body": "watching AWS conference"
+    },
+    {
+      "id": 3,
+      "title": "my third post",
+      "datetime": "March 01 ,2024 3:38:45 PM",
+      "body": "listening yuvan music"
+    },
+    {
+      "id": 4,
+      "title": "my fourth post",
+      "datetime": "March 01 ,2024 3:41:19 PM",
+      "body": "completed React "
+    }
+  ]
+}
